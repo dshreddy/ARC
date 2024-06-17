@@ -41,5 +41,5 @@ This project implements a mobile application for tracking student attendance usi
 <img src="https://github.com/dshreddy/ARC/assets/127737097/2501efe4-1050-475b-93fd-f71dd75a139c" height="450px">
 
 ### Contributers
-[Garima Ranjan](https://github.com/gr1310)
+[Garima Ranjan](https://github.com/gr1310)<br>
 [Sai Hemanth Reddy](https://github.com/dshreddy/)
