@@ -32,7 +32,7 @@ This project implements a mobile application for tracking student attendance usi
 * Consider capturing multiple images during student registration
 
 ### Images
-
+<img src="https://github.com/dshreddy/ARC/assets/127737097/a0d205c9-b052-46bb-8bb5-dadeaaeedfe1">
 <img src="https://github.com/dshreddy/ARC/assets/127737097/b62bf0d4-5f75-4e9e-9d96-0f496b0cdac6" height="450px">
 <img src="https://github.com/dshreddy/ARC/assets/127737097/f07e07a5-d804-4000-abfd-9e73bf2cfb59" height="450px">
 <img src="https://github.com/dshreddy/ARC/assets/127737097/a9f07dd8-5195-4193-9173-80b82b46e733" height="450px">
